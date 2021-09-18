@@ -8,4 +8,4 @@ Start time: ___3:00pm__
 
 Finish time: ___9:pm__
 
-Actual time needed to complete: ___3 hour  
+Actual time needed to complete: ___3 hour__  
