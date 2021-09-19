@@ -63,7 +63,7 @@ class Landing extends React.Component {
         <DemoNavbar />
         <main ref="main">
           <div className="position-relative">
-            {/* shape Hero */}
+           
             <section className="section section-lg section-shaped pb-250">
               <div className="shape shape-style-1 shape-default">
                 <span />
@@ -92,7 +92,7 @@ class Landing extends React.Component {
                   </Row>
                 </div>
               </Container>
-              {/* SVG separator */}
+             
               <div className="separator separator-bottom separator-skew">
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
@@ -109,7 +109,7 @@ class Landing extends React.Component {
                 </svg>
               </div>
             </section>
-            {/* 1st Hero Variation */}
+          
           </div>
           <section className="section section-lg pt-lg-0 mt--200">
             <Container>
@@ -153,7 +153,7 @@ class Landing extends React.Component {
                             className="mt-4"
                             color="success"
                             href="https://hala277.github.io/cookie-stand/"
-                            // onClick={e => e.preventDefault()}
+                           
                           >
                             Learn more
                           </Button>
@@ -175,7 +175,7 @@ class Landing extends React.Component {
                             className="mt-4"
                             color="warning"
                             href="https://hala277.github.io/bus-mall-/"
-                            // onClick={e => e.preventDefault()}
+                            
                           >
                             Learn more
                           </Button>
